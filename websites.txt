@@ -1,3 +1,27 @@
+Politikens Boghal
+https://jppol.dk/kalender/?location=boghallen
+
+Politikens Forhal
+https://jppol.dk/kalender/?location=forhallen
+
+SMK
+https://www.smk.dk/list/kalender/
+
+Nikolaj kunsthal
+https://www.nikolajkunsthal.kk.dk/en/events
+
+Den Sorte Diamant
+https://www.kb.dk/en/events
+
+Louisiana
+https://louisiana.dk/en/exhibitions/current/
+
+Literaturhaus
+https://www.literaturhaus.dk/category/kommende-arrangementer/
+
+Absalon
+https://absaloncph.dk/
+
 Cinemateket (events)
 https://www.dfi.dk/cinemateket/biograf/events-0?
 https://www.dfi.dk/cinemateket/biograf/events-0?page=2
@@ -6,11 +30,14 @@ https://www.dfi.dk/cinemateket/biograf/events-0?page=4
 https://www.dfi.dk/cinemateket/biograf/events-0?page=5
 https://www.dfi.dk/cinemateket/biograf/events-0?page=6
 
+
+
+
+
+Muligvis disse:
+
 Blå Gaard Teater
 https://www.grob.dk/
-
-Absalon
-https://absaloncph.dk/
 
 Grand
 https://grandteatret.dk/events/kommende-events/
@@ -18,5 +45,4 @@ https://grandteatret.dk/events/kommende-events/
 Cisternerne
 https://frederiksbergmuseerne.dk/da/kalender/
 
-Politikens Boghal
-https://jppol.dk/kalender/?location=boghallen
+Beat Café
